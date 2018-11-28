@@ -4,6 +4,7 @@
         "module": "commonjs",
         "sourceMap": true,
         "watch": true,
-        "outDir": "js"
+        "outDir": "js",
+        "strictNullChecks": true
     }
 }
